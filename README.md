@@ -30,6 +30,7 @@ I'm passionate about problemsolving and changing people's lives with software. O
   <a href="https://github.com/lcrossi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcrossi&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcrossi&layout=compact&langs_count=7&theme=blueberry"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
