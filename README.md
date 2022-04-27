@@ -3,7 +3,7 @@
 My name is Luis Rossi (🇧🇷). 
 
 
-I'm currently working as Project Director/Software Developer at IEEE Computer Society - Guaratinguetá, SP (Brazil), while I'm an engeneering student at UNESP - FEG.
+I'm currently working as a Developer at IEEE Computer Society - Guaratinguetá, SP (Brazil), while I'm an engeneering student at UNESP - FEG.
 
 
 
