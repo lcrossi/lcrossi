@@ -13,7 +13,7 @@ I'm currently working as a Developer at IEEE Computer Society - Guaratinguetá, 
   </a>
 
 
-Recently I was hired by Embraer ✈ as a engeneering intern.
+Recently I was hired by Embraer ✈ as an engeneering intern.
 <br/>
 <br/>
 <a href="https://www.linkedin.com/company/embraer/mycompany/">
