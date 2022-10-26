@@ -3,7 +3,7 @@
 My name is Luis Rossi (🇧🇷). 
 
 
-I'm currently working as a Developer at IEEE Computer Society - Guaratinguetá, SP (Brazil), while I'm an engeneering student at UNESP - FEG.
+From 2020 to 2021 I had worked as Developer and Project Director at IEEE Computer Society - Guaratinguetá, SP (Brazil), while studing engineering at UNESP - FEG.
 
 
 
@@ -13,7 +13,7 @@ I'm currently working as a Developer at IEEE Computer Society - Guaratinguetá, 
   </a>
 
 
-Recently I was hired by Embraer ✈ as an engeneering intern.
+I have been working in Embraer ✈ since 2021 as an engeneering intern, developing tools to automate processes and simplify tasks.
 <br/>
 <br/>
 <a href="https://www.linkedin.com/company/embraer/mycompany/">
@@ -23,7 +23,7 @@ Recently I was hired by Embraer ✈ as an engeneering intern.
   ##
   
 
-I'm passionate about problemsolving and changing people's lives with software. On account of the fact that challenges make me grow so much, I'm always looking for creative and    challenging projects in order to improove my abilities as a developer.
+I'm passionate about problemsolving and changing people's lives with software. On account of the fact that challenges make me grow so much, I'm always looking for creative and challenging projects in order to improove my abilities as a developer.
 
 
 <div>
